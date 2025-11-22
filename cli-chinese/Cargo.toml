@@ -1,0 +1,8 @@
+[package]
+name = "cli-chinese"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hello-core = { path = "../hello-core" }
+chinese-greeter = { path = "../chinese-greeter" }

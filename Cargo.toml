@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "hello-core",
+    "english-greeter", 
+    "chinese-greeter",
+    "cli-english",
+    "cli-chinese"
+]
